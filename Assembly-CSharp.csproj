@@ -59,9 +59,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\CamMovement.cs" />
-    <Compile Include="Assets\Drag.cs" />
-    <Compile Include="Assets\Dragable.cs" />
+    <Compile Include="Assets\_Scripts\CamMovement.cs" />
+    <Compile Include="Assets\_Scripts\Drag.cs" />
+    <Compile Include="Assets\_Scripts\Dragable.cs" />
     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\LookCamera.cs" />
     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\SkyboxChanger.cs" />
     <Reference Include="UnityEditor.StandardEvents">
